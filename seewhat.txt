@@ -1,12 +1,4 @@
-nn add sth,
-
-pull back and add :
-nn add sth,
-nn add sth here
-nn add sth,
-nn add sth,
-	 lksdjflk
-nn add sth,
-new branch add sth 
-nn add sth,
-nn add sth,
+add(){
+newbranch do sth
+}
+>>>>>>> ef5ed007ec38de6d1301201801ce408cb17091c6
